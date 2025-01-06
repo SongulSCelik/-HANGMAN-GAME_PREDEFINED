@@ -1,7 +1,5 @@
 # -HANGMAN-GAME_PREDEFINED
 
-# HANGMAN-GAME_PREDEFINED
-
 A Python implementation of the classic Hangman game, featuring predefined word categories based on word length. This version allows players to select a word length, guess letters to uncover the word, and keep track of their scores. It's a fun and educational project showcasing Python programming skills.
 
 ---
